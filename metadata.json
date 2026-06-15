@@ -1,0 +1,6 @@
+{
+  "name": "Souqna",
+  "description": "An advanced Syrian e-commerce platform with multi-currency (SYP/USD/EUR) support, roles for customers, merchants, and admins, live support chat, and real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
